@@ -5,18 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/searx.linsec.nl.ico",
     "slug": "https-searx-linsec-nl",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "97.03%",
+    "uptimeDay": "97.03%",
+    "uptimeWeek": "97.03%",
+    "uptimeMonth": "97.03%",
+    "uptimeYear": "97.03%",
     "time": 974,
     "timeDay": 974,
     "timeWeek": 974,
     "timeMonth": 974,
     "timeYear": 974,
     "dailyMinutesDown": {
-      "2025-06-23": 0
+      "2025-06-23": 36
     }
   }
 ]
