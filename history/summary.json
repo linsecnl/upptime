@@ -4,7 +4,7 @@
     "url": "https://searx.linsec.nl",
     "icon": "https://icons.duckduckgo.com/ip3/searx.linsec.nl.ico",
     "slug": "https-searx-linsec-nl",
-    "status": "up",
+    "status": "down",
     "uptime": "99.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "95.57%",
@@ -16,6 +16,7 @@
     "timeMonth": 1102,
     "timeYear": 1220,
     "dailyMinutesDown": {
+      "2026-01-08": 0,
       "2026-01-05": 339,
       "2026-01-04": 81,
       "2026-01-03": 26,
